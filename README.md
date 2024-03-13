@@ -1,1 +1,1 @@
-# ejerciciospython24_jc
+#curso_python_24
